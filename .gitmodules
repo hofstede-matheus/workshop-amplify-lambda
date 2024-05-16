@@ -1,3 +1,6 @@
 [submodule "workshop-amplify-fe"]
 	path = workshop-amplify-fe
 	url = https://github.com/hofstede-matheus/workshop-amplify-fe
+[submodule "workshop-amplify-be"]
+	path = workshop-amplify-be
+	url = https://github.com/hofstede-matheus/workshop-amplify-be
